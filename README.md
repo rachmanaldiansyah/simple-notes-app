@@ -1,6 +1,6 @@
-# simple_notes_app
+# Simple Notes App
 
-A new Flutter project.
+This is a simple application project note to learn about the utilization of Isar Database + Provider state management in Flutter.
 
 ## Getting Started
 
